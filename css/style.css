@@ -1,8 +1,48 @@
-body{
-  background-color: black;
+{
+  margin-top: 0px;
+  border-top: 0px;
+}
+
+body {
+  background-color: #F2F1E9;
+  background-size: cover;
+  background-position: center;
+}
+h2{
+  color:#012603;
+  text-transform: uppercase;
+  font-size: 50px;
+  text-align: center;
+  padding-left:50px;
+  padding-right: 50px;
+}
+
+h3 {
+  color:#244026;
+  font-size: 20px;
+  text-align: center;
+  padding-left:50px;
+  padding-right: 50px;
+}
+
+h4{
+  color:#244026;
+  font-size: 30px;
+  padding-left:50px;
+  padding-right: 50px;
+
 }
 
 p{
-  color: white;
-  font-size: 30px;
+  color:#7E8C7B;
+  font-size: 20px;
+  padding-left:50px;
+  padding-right: 50px;
+
+}
+
+.box, .concept{
+  padding-left: 20%;
+  padding-right: 20%;
+  display: block;
 }
